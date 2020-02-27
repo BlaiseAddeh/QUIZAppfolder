@@ -16,7 +16,7 @@ namespace OnlineExamSystem.Models
 		public int RegistrationId { get; set; }
 		public DateTime RegistrationDate { get; set; }
 		public string Token { get; set; }
-		public string TokenExpireTime { get; set; }
+		public DateTime TokenExpireTime { get; set; }
 
 		public int StudentId { get; set; }
 		public virtual Student Student { get; set; }

@@ -13,7 +13,7 @@ namespace OnlineExamSystem.Models
 		}
 		public int StudentId { get; set; }
 		public string Name { get; set; }
-		public string AccessLevel { get; set; }
+		public int AccessLevel { get; set; }
 		public DateTime EntryDate { get; set; }
 		public string Email { get; set; }
 		public string Phone { get; set; }

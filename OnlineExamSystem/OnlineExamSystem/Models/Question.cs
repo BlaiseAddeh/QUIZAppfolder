@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Web;
 
@@ -20,6 +21,8 @@ namespace OnlineExamSystem.Models
 
 
 		public int CategoryId { get; set; }
+
+		[ForeignKey("CategoryId")]
 		public virtual QuestionCategory Category { get; set; }
 
 		public int ExhibitId { get; set; }

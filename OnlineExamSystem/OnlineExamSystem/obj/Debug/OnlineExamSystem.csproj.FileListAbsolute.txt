@@ -89,3 +89,7 @@ F:\DEV FOLDER\PERSONAL_PROJECT\QUIZ_SYSTEM2\OnlineExamSystem\OnlineExamSystem\ob
 F:\DEV FOLDER\PERSONAL_PROJECT\QUIZ_SYSTEM2\OnlineExamSystem\OnlineExamSystem\obj\Debug\OnlineExamSystem.pdb
 F:\DEV FOLDER\PERSONAL_PROJECT\QUIZ_SYSTEM2\OnlineExamSystem\OnlineExamSystem\obj\Debug\OnlineExamSystem.Migrations.QuizOnline.InitialCreate.resources
 F:\DEV FOLDER\PERSONAL_PROJECT\QUIZ_SYSTEM2\OnlineExamSystem\OnlineExamSystem\obj\Debug\OnlineExamSystem.csproj.GenerateResource.cache
+F:\DEV FOLDER\PERSONAL_PROJECT\QUIZ_SYSTEM2\OnlineExamSystem\OnlineExamSystem\obj\Debug\OnlineExamSystem.Migrations.QuizOnline.InitialCreate1.resources
+F:\DEV FOLDER\PERSONAL_PROJECT\QUIZ_SYSTEM2\OnlineExamSystem\OnlineExamSystem\obj\Debug\OnlineExamSystem.Migrations.QuizOnline.InitialCreate2.resources
+F:\DEV FOLDER\PERSONAL_PROJECT\QUIZ_SYSTEM2\OnlineExamSystem\OnlineExamSystem\obj\Debug\OnlineExamSystem.Migrations.QuizOnline.InitialCreate3.resources
+F:\DEV FOLDER\PERSONAL_PROJECT\QUIZ_SYSTEM2\OnlineExamSystem\OnlineExamSystem\obj\Debug\OnlineExamSystem.Migrations.QuizOnline.InitialCreate4.resources

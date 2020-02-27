@@ -19,7 +19,7 @@ namespace OnlineExamSystem.Models
 		public string Name { get; set; }
 		public string Description { get; set; }
 		public bool IsActive { get; set; }
-		public String DurationInMinute { get; set; }
+		public double DurationInMinute { get; set; }
 
 		
 		public virtual ICollection<Registration> Registrations { get; set; }
