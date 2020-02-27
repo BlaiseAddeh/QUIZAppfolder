@@ -1,0 +1,11 @@
+Student 1--->* Registration
+Registration 1---->* QuestionXDuration
+Registration 1---->* TestXPaper
+QuestionCategory 1---->* Question
+Test 1---->* Registration 
+Test 1---->* TestXQuestion
+TestXQuestion 1------>* QuestionXDuration
+TestXQuestion 1------>* TestXPaper
+Question 1----->* TestXQuestion
+Question 1----->* Choice
+Choice 1----->* TestXPaper
